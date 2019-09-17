@@ -1,0 +1,15 @@
+{
+    "employees":[{
+    "id":1,
+    "firstName": "Ricardo",
+    "lastName": "Kaka",
+    "email": "ricardokaka@gmail.com",
+    "address": "22 Rio, Brazil.",
+    "mobile": "0906543564",
+    "Salary": 10000,
+    "image":"ghjmnkk",
+    "maritalStatus": "Single",
+    "joiningDate":"date"
+  }
+    ]}
+    
